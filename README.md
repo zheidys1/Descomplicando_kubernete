@@ -68,8 +68,6 @@ Exploração de comandos para visualizar a saúde do cluster e rodar aplicaçõe
      Nome do Recurso    Tipo       Porta       Status
      pod/meu-nginx,     Pod        80/TCP      Running
     service/meu-nginx   ClusterIP  80/TCp      Active
-    
-    ![Texto Alternativo](img/img.png)
    
 💡 Aprendizados Adquiridos:
    Diferença entre edição imperativa (kubectl run) e declarativa (kubectl apply -f).
