@@ -17,6 +17,15 @@ Nesta etapa, aprendi a interagir com o cluster Kubernetes utilizando o kubectl e
     Kind (Kubernetes in Docker): Ferramenta para rodar clusters Kubernetes locais.
 
     kubectl: CLI para interação com o cluster.
+
+    ## 📅 Cronograma de Estudos
+
+| Dia | Conteúdo Principal | Documentação Prática |
+| :--- | :--- | :--- |
+| **Day 1** | Instalação de Cluster (Kind) e comandos básicos | [Visualizar](./README.md) |
+| **Day 2** | Pods, YAML, Multi-containers e Resources | [Acessar Laboratório](./Day2/) |
+
+---
     
 🚀 Passo a Passo Realizado
 1. Preparação do Ambiente
