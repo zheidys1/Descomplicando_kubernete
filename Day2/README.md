@@ -24,3 +24,10 @@ kubectl get pods -o wide
 # Ver detalhes e logs de um pod específico
 kubectl describe pod <nome-do-pod>
 kubectl logs <nome-do-pod>
+## 📸 Evidências do Dia 2
+
+### Status do Pod (2/2 Running)
+![Status do Pod](../images/Day2pod.png)
+
+### Detalhes técnicos (Limits e Requests)
+![Describe do Pod](../images/Day-2-1.png)
